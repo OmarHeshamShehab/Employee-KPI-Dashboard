@@ -151,7 +151,10 @@ Example plot (auto-generated):
 - Top 10 employees by satisfaction
 - Productivity ranking (tasks/hour)
 
-![alt text](KPI-Dashboard.png)
+## 📊 Dashboard Preview
+
+![Employee KPI Dashboard](outputs/dashboard_screenshot.png)
+
 ---
 
 ## 💡 Key Learnings & Skills Demonstrated
