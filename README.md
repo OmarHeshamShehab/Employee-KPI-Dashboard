@@ -153,8 +153,7 @@ Example plot (auto-generated):
 
 ## 📊 Dashboard Preview
 
-![Employee KPI Dashboard](outputs/dashboard_screenshot.png)
-
+![alt text](KPI-Dashboard.png)
 ---
 
 ## 💡 Key Learnings & Skills Demonstrated
